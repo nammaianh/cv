@@ -1,0 +1,22 @@
+{
+  "name": "cv",
+  "version": "0.0.0",
+  "homepage": "https://github.com/nammaianh/cv",
+  "authors": [
+    "Nam Mai Anh <nammaianh@hotmail.com>"
+  ],
+  "description": "My CV as a website :)",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "vendor",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.4",
+    "jquery": "~2.1.3"
+  }
+}
